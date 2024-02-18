@@ -8,5 +8,5 @@ Used HTML5 & CSS3
 
 <h3> Screen </h3>
  
- ![] (ekran.gif)
+ ![](ekran.gif)
 # amazon-clone
