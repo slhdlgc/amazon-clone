@@ -9,4 +9,3 @@ Used HTML5 & CSS3
 <h2> Screen </h2>
  
  ![](ekran.gif)
-# amazon-clone
