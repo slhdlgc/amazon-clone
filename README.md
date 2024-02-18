@@ -6,7 +6,7 @@ It's a clone of the Amazon website.
 
 Used HTML5 & CSS3
 
-<h3> Screen </h3>
+<h2> Screen </h2>
  
  ![](ekran.gif)
 # amazon-clone
